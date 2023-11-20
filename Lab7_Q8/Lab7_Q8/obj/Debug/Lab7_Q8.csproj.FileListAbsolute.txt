@@ -1,0 +1,10 @@
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\bin\Debug\Lab7_Q8.exe.config
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\bin\Debug\Lab7_Q8.exe
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\bin\Debug\Lab7_Q8.pdb
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.csproj.AssemblyReference.cache
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.Form1.resources
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.Properties.Resources.resources
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.csproj.GenerateResource.cache
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.csproj.CoreCompileInputs.cache
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.exe
+C:\Users\213001\source\repos\Lab8\Lab7_Q8\Lab7_Q8\obj\Debug\Lab7_Q8.pdb
